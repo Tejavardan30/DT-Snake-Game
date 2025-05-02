@@ -5,7 +5,6 @@ A simple Snake game built with Python and Pygame.
 ## How to Run
 
 1. Install pygame:
-   ```bash
    pip install pygame
 
 2. Run the game:
